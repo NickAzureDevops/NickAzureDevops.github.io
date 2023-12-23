@@ -150,7 +150,7 @@
         flashError: function() {
           var player = this.settings.createPlayer,
               errorMessage = getByClass(player.errorMessageClass, this.wrapper),
-              html = 'Missing <a href="http://get.adobe.com/flashplayer/">flash player</a> plugin.';
+              html = 'Missing <a href="https://get.adobe.com/flashplayer/">flash player</a> plugin.';
           if (this.mp3) html += ' <a href="'+this.mp3+'">Download audio file</a>.';
           container[audiojs].helpers.removeClass(this.wrapper, player.loadingClass);
           container[audiojs].helpers.addClass(this.wrapper, player.errorClass);
@@ -374,7 +374,7 @@
           }
           audio.playing = true;
           // IE doesn't allow a method named `play()` to be exposed through `ExternalInterface`, so lets go with `pplay()`.
-          // <http://dev.nuclearrooster.com/2008/07/27/externalinterfaceaddcallback-can-cause-ie-js-errors-with-certain-keyworkds/>
+          // <https://dev.nuclearrooster.com/2008/07/27/externalinterfaceaddcallback-can-cause-ie-js-errors-with-certain-keyworkds/>
           audio.element.pplay();
           audio.settings.play.apply(audio);
         }
@@ -549,7 +549,7 @@
         },
   
         // **Douglas Crockford's IE6 memory leak fix**
-        // <http://javascript.crockford.com/memory/leak.html>
+        // <https://javascript.crockford.com/memory/leak.html>
         // This is used to release the memory leak created by the circular references created when fixing `this` scoping for IE. It is called on page unload.
         purge: function(d) {
           var a = d.attributes, i;
@@ -565,7 +565,7 @@
         },
   
         // **DOMready function**
-        // As seen here: <https://github.com/dperini/ContentLoaded/>.
+        // As seen here: <httpss://github.com/dperini/ContentLoaded/>.
         ready: (function() { return function(fn) {
           var win = window, done = false, top = true,
           doc = win.document, root = doc.documentElement,

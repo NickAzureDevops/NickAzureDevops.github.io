@@ -4,13 +4,13 @@
 
 > *Trevor Hess:* I'm your co-host Trevor Hess, @trevorghess on Twitter.
 
-> *Female Facilitator:* Arrested DevOps is brought to you by 10th Magnitude. A cloud services company that figures that if you're listening to this podcast, you must be pretty cool. You can find out about joining their cloud services team at [arresteddevops.com/10thmagnitude](http://arresteddevops.com/10thmagnitude).
+> *Female Facilitator:* Arrested DevOps is brought to you by 10th Magnitude. A cloud services company that figures that if you're listening to this podcast, you must be pretty cool. You can find out about joining their cloud services team at [arresteddevops.com/10thmagnitude](https://arresteddevops.com/10thmagnitude).
 
 > *Matt:* This episode is also sponsored by VictorOps, from initial alarm to final retrospective. Mission of VictorOps is to make on-call suck less. Easily integrate with your existing monitoring systems, and managed on-call schedules with rules for intelligent rally. In the live infrastructure time line, get real context and see annotated alarms with resolution documentation.
 >
-> When you're in the fire fight, collaboratively troubleshoot using native chat or bi-directional integrations with your favorite chat clients. Visit [arresteddevops.com/victorops](http://arresteddevops.com/victorops) and sign up for our 14-day free trial to see how they're making on-call suck less.
+> When you're in the fire fight, collaboratively troubleshoot using native chat or bi-directional integrations with your favorite chat clients. Visit [arresteddevops.com/victorops](https://arresteddevops.com/victorops) and sign up for our 14-day free trial to see how they're making on-call suck less.
 
-> *Matt:* This episode is also brought to you by Datadog, a monitoring tool that helps bridge the gap between operations and Dev teams. Datadog brings in together system metrics, changes, alerts and events from over 70 common infrastructure tools such as Chef, Docker and AWS, so that Dev and ops teams share their key data and alerts in a single place and collaborate on issues in real-time. Datadog is available for a free 14-day trial at [arresteddevops.com/datadog](http://arresteddevops.com/datadog).
+> *Matt:* This episode is also brought to you by Datadog, a monitoring tool that helps bridge the gap between operations and Dev teams. Datadog brings in together system metrics, changes, alerts and events from over 70 common infrastructure tools such as Chef, Docker and AWS, so that Dev and ops teams share their key data and alerts in a single place and collaborate on issues in real-time. Datadog is available for a free 14-day trial at [arresteddevops.com/datadog](https://arresteddevops.com/datadog).
 
 > *Matt:* We're recording this live from DevOpsDays Chicago. Joining us again is Jason Hand of VictorOps.
 
@@ -418,7 +418,7 @@
 
 > *Sasha:* This is an excellent point. In an inbox you have a subject line which helps you and who it directed to, whether you've copied or you're directed to, so in a chat, unless it's at you, it's very hard to tell which messages are important and which are not.
 
-> *Matt:* That's the way that I do it. I would put this as a short thing because we're going to have to wrap it up, but this is a question to the listeners. Listeners we would love, please tweet at us at @ArrestedDevOps and let us know how you might practice ChatOps zero or leave a comment on this episode, which is at [arresteddevops.com/42](http://arresteddevops.com/42).
+> *Matt:* That's the way that I do it. I would put this as a short thing because we're going to have to wrap it up, but this is a question to the listeners. Listeners we would love, please tweet at us at @ArrestedDevOps and let us know how you might practice ChatOps zero or leave a comment on this episode, which is at [arresteddevops.com/42](https://arresteddevops.com/42).
 >
 > I'll just tell you the way that I do it is a combination of, in Slack if you hit command, period, and you get the little side bar. By the way everybody listening, you can't see me gesturing off to the side. If you have recent mentions...
 
@@ -462,13 +462,13 @@
 >
 > We're taking the things we're already doing and we're merging them with the conversations we're already having, and it's creating these new efficiencies that we all of a sudden are at least interested in exploring.
 
-> *Matt:* Great. We got a couple things to wrap up. First of all we got, very quickly on the upcoming conferences; don't forget to go check out [devopsdays.org](http://devopsdays.org/). There's a whole bunch of new DevOps days coming up in the next couple months.
+> *Matt:* Great. We got a couple things to wrap up. First of all we got, very quickly on the upcoming conferences; don't forget to go check out [devopsdays.org](https://devopsdays.org/). There's a whole bunch of new DevOps days coming up in the next couple months.
 >
 > There's CFPs open. Come and speak. Give a talk about ChatOps. It'll be great. Want to share with you, I promised on our last episode that we would have a discount code for the Chef community summits. These are good for both the Seattle and the London version of Chef community summit. The discount code ArrestedDevOps will get you 20 percent off your registration.
 >
-> Seattle version of Chef community summit is October 14th through the 15th and London will be November 3rd and 4th. Go to [Chef.io/summit](http://chef.io/summit). We're skipping checkouts because we are. Just a quick reminder that we do have a newsletter, [arresteddevops.com/bananastand](http://arresteddevops.com/bananastand). It's the best way to know about upcoming podcast episodes and cool news with DevOps. We have an iPhone app if you want to put an iPhone app that says ArrestedDevOps on your phone, go to [arresteddevops.com/iPhone](http://arresteddevops.com/iPhone).
+> Seattle version of Chef community summit is October 14th through the 15th and London will be November 3rd and 4th. Go to [Chef.io/summit](https://chef.io/summit). We're skipping checkouts because we are. Just a quick reminder that we do have a newsletter, [arresteddevops.com/bananastand](https://arresteddevops.com/bananastand). It's the best way to know about upcoming podcast episodes and cool news with DevOps. We have an iPhone app if you want to put an iPhone app that says ArrestedDevOps on your phone, go to [arresteddevops.com/iPhone](https://arresteddevops.com/iPhone).
 
-> *Trevor:* Thanks to our sponsors. Be sure to visit them at [arresteddevops.com/tenthmagnitude](http://arresteddevops.com/tenthmagnitude) and [arresteddevops.com/victorops](http://arresteddevops.com/victorops) and [arresteddevops.com/datadog](http://arresteddevops.com/datadog). Thanks to Jason, Sasha, and Peter for joining us and to our loyal listeners. Let's get a cheer, everybody in the room.
+> *Trevor:* Thanks to our sponsors. Be sure to visit them at [arresteddevops.com/tenthmagnitude](https://arresteddevops.com/tenthmagnitude) and [arresteddevops.com/victorops](https://arresteddevops.com/victorops) and [arresteddevops.com/datadog](https://arresteddevops.com/datadog). Thanks to Jason, Sasha, and Peter for joining us and to our loyal listeners. Let's get a cheer, everybody in the room.
 >
 > [cheering]
 >
@@ -476,9 +476,9 @@
 >
 > [laughter]
 
-> *Trevor:* If you enjoy ArrestedDevOps, [laughs] we'd appreciate if you'd visit [arresteddevops.com/iTunes](http://arresteddevops.com/iTunes) and leave us a review in the iTunes store. We would love to know what you thought of this episode. Please leave us a comment at [arresteddevops.com/42](http://arresteddevops.com/42).
+> *Trevor:* If you enjoy ArrestedDevOps, [laughs] we'd appreciate if you'd visit [arresteddevops.com/iTunes](https://arresteddevops.com/iTunes) and leave us a review in the iTunes store. We would love to know what you thought of this episode. Please leave us a comment at [arresteddevops.com/42](https://arresteddevops.com/42).
 
-> *Matt:* You can check us out at [arresteddevops.com](http://arresteddevops.com/) or @ArrestedDevOps on twitter. We're always happy to get your input, ideas, or feedback at shows at [arresteddevops.com](http://arresteddevops.com/). Please let us know any ideas you have for future episodes. I'm Matt @mattstratton.
+> *Matt:* You can check us out at [arresteddevops.com](https://arresteddevops.com/) or @ArrestedDevOps on twitter. We're always happy to get your input, ideas, or feedback at shows at [arresteddevops.com](https://arresteddevops.com/). Please let us know any ideas you have for future episodes. I'm Matt @mattstratton.
 
 > *Trevor:* I'm Trevor, @trevorghess. We're ArrestedDevOps, and remember, there's always DevOps...
 

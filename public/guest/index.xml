@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Guests of HugoCast on Microsoft Community Hub</title>
-    <link>https://example.com/guest/</link>
+    <link>httpss://example.com/guest/</link>
     <description>Recent content in Guests of HugoCast on Microsoft Community Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate><atom:link href="https://example.com/guest/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate><atom:link href="httpss://example.com/guest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alan Johnston</title>
-      <link>https://example.com/guest/ajohnston/</link>
+      <link>httpss://example.com/guest/ajohnston/</link>
       <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
       
-      <guid>https://example.com/guest/ajohnston/</guid>
+      <guid>httpss://example.com/guest/ajohnston/</guid>
       <description>voluptate consequuntur est nihil aut.</description>
     </item>
     
