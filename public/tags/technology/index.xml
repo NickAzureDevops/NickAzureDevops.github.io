@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Microsoft Community Hub</title>
+    <link>https://example.com/tags/technology/</link>
+    <description>Recent content in Technology on Microsoft Community Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2016 04:08:15 -0500</lastBuildDate><atom:link href="https://example.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To be Confirmed</title>
+      <link>https://example.com/jan/</link>
+      <pubDate>Mon, 25 Jan 2016 04:08:15 -0500</pubDate>
+      
+      <guid>https://example.com/jan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
