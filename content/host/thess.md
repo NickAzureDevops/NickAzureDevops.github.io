@@ -1,20 +1,14 @@
 +++
-Title = "Trevor Hess"
+Title = "Nicholas Chang"
 date = "2016-12-08T20:55:58-06:00"
 Twitter = "trevorghess"
 Website = ""
-Type = "host"
-Facebook = ""
-Linkedin = ""
-Pronouns = ""
-GitHub = "trevorghess"
-Thumbnail = "img/host/trevor.jpg"
-Pinterest = ""
-Instagram = ""
+Thumbnail = "img/host/nick.png"
 YouTube = ""
 +++
-Trevor Hess is a Partner Solution Architect focusing on Microsoft at [Chef Software](httpss://www.chef.io/), working with Microsoft to ensure that Chef is delighting customers and prospects on Windows and the many parts inside Azure! 
 
-Coming from a background in .NET Software Development and consulting, he has worked with several large multinational organizations to help kick start their journey to the cloud and the world of DevOps practices and principals. He is excited to engage in new experiences, and learning opportunities. 
+Nicholas is a Senior Platform Engineer working at Kainos interested in learning and sharing Azure Knowledge within the community.
 
-Trevor enjoys having hearty discussions about DevOps as well organizational change and transformation.
+I work with Azure, Terraform, Azure DevOps, and GitHub and am passionate about Microsoft technology.
+
+You can find me on my Twitter: @nick_cloudops or visit my blog @ nicholaschangblog.com

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nickazuredevops.github.io/guest/ajohnston/</loc>
+    <loc>http://nickazuredevops.github.io/guest/kevin-evans/</loc>
     <lastmod>2017-06-10T09:12:39-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/</loc>
@@ -24,6 +24,9 @@
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/upcoming/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/usergroup/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/categories/</loc>

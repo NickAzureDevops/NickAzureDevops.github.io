@@ -41,9 +41,9 @@ buildFuture = true
     url = "/upcoming"
 
 [[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "/podcast"
+    name = "User Group"
+    identifier = "usergroup"
+    url = "/usergroup"
     
 [params]
 googleAnalytics_UA = ""
@@ -59,9 +59,9 @@ enable_jumbo = "true"
 disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2016 [Matt Stratton](httpss://www.mattstrattion.io)"
-youtube_subscribe = "httpss://www.youtube.com/arresteddevops?sub_confirmation=1"
-itunes_subscribe = "httpss://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
+copyright_notice = "Copyright 2016 [Nicholas Chang]"
+youtube_subscribe = ""
+itunes_subscribe = ""
 spotify_subscribe = "httpss://open.spotify.com/show/..."
 # rss_subscribe = "https://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "This is a place for all community learning, including user groups and podcasts. We will be showcasing the Azure Community Enthusiasts User Group and we're excited to announce the upcoming Microsoft Community podcast. Stay tuned!"
