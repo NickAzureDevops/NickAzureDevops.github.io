@@ -3,12 +3,12 @@ Description = ""
 author = ""
 date = "2016-01-25T04:08:15-05:00"
 episode = "1"
-episode_image = "img/episode/jan.jpg"
+episode_image = "img/episode/coming-soon.jpg"
 explicit = "no"
-guests = ["Kevin Evans"]
-images = ["img/episode/default-social.jpg"]
+guests = ["Guest"]
+images = ["img/episode/coming-soon.jpg"]
 podcast_duration = "1:08:22"
-title = "First Episode title to be confirmed"
+title = "Interview with ..."
 youtube = ""
 
 categories = ["Cloud Technology"]

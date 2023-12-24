@@ -558,13 +558,13 @@ readers do not read off random characters that represent icons */
 .fa-blind:before {
   content: "\f29d"; }
 
-.fa-usergroup:before {
+.fa-blog:before {
   content: "\f781"; }
 
-.fa-usergroupger:before {
+.fa-blogger:before {
   content: "\f37c"; }
 
-.fa-usergroupger-b:before {
+.fa-blogger-b:before {
   content: "\f37d"; }
 
 .fa-bluetooth:before {

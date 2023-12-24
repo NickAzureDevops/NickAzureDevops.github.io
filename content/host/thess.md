@@ -1,8 +1,9 @@
 +++
 Title = "Nicholas Chang"
 date = "2016-12-08T20:55:58-06:00"
-Twitter = "trevorghess"
-Website = ""
+Twitter = "nick_cloudops"
+Website = "https://nicholaschangblog.com"
+Linkedin = "https://www.linkedin.com/in/nicholas-chang-0b1b0b1a/"
 Thumbnail = "img/host/nick.png"
 YouTube = ""
 +++
