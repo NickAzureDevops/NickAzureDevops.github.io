@@ -8,7 +8,7 @@ explicit = "no"
 guests = ["Guest"]
 images = ["img/episode/coming-soon.jpg"]
 podcast_duration = "1:08:22"
-title = "Interview with ..."
+title = "Interview with Guest ...."
 youtube = ""
 
 categories = ["Cloud Technology"]

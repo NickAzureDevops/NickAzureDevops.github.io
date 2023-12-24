@@ -42,8 +42,8 @@ buildFuture = true
 
 [[Menu.Main]]
     name = "User Group"
-    identifier = "blog"
-    url = "/blog"
+    identifier = "usergroup"
+    url = "/usergroup"
     
 [params]
 googleAnalytics_UA = ""
