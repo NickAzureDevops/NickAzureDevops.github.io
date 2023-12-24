@@ -18,22 +18,22 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
-    <copyright>Copyright 2020 Matt Stratton</copyright>
+    <copyright></copyright>
     <itunes:subtitle>The best podcast ever</itunes:subtitle>
-    <itunes:author>Matt Stratton</itunes:author>
+    <itunes:author></itunes:author>
     <itunes:type>episodic</itunes:type>
-    <googleplay:author>Matt Stratton</googleplay:author>
-    <googleplay:email>matt.stratton@gmail.com</googleplay:email>
+    <googleplay:author></googleplay:author>
+    <googleplay:email></googleplay:email>
     <itunes:summary>The HugoCast is the best podcast you&#39;ve ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet.</itunes:summary>
     <googleplay:description>The HugoCast is the best podcast you&#39;ve ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet.</googleplay:description>
     <itunes:owner>
-      <itunes:name>Matt Stratton</itunes:name>
-      <itunes:email>matt.stratton@gmail.com</itunes:email>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
     </itunes:owner>
-    <itunes:image href="#ZgotmplZ" />
-    <googleplay:image href="#ZgotmplZ"></googleplay:image>
+    <itunes:image href="" />
+    <googleplay:image href=""></googleplay:image>
     <image>
-      <url>httpss://www.arresteddevops.com/img/ado-podcast-logo.png</url>
+      <url></url>
       <title>Microsoft Community Hub</title>
       <link>http://nickazuredevops.github.io</link>
     </image>
