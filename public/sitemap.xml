@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nickazuredevops.github.io/guest/kevin-evans/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+    <loc>http://nickazuredevops.github.io/categories/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/categories/deployment/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/categories/devops/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/tags/git/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/usergroup/my-first-blog/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/series/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/tags/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/series/the-nirvana-of-devops/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/usergroup/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/tags/version-control/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/guest/kevin-evans/</loc>
     <lastmod>2017-06-10T09:12:39-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/host/thess/</loc>
     <lastmod>2016-12-08T20:55:58-06:00</lastmod>
   </url><url>
-    <loc>http://nickazuredevops.github.io/usergroup/usergroup/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
     <loc>http://nickazuredevops.github.io/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/about/</loc>
-    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url><url>
-    <loc>http://nickazuredevops.github.io/usergroup/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/guest/</loc>
@@ -32,9 +56,6 @@
     <loc>http://nickazuredevops.github.io/upcoming/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
-    <loc>http://nickazuredevops.github.io/categories/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url><url>
     <loc>http://nickazuredevops.github.io/categories/cloud-technology/</loc>
     <lastmod>2016-01-25T04:08:15-05:00</lastmod>
   </url><url>
@@ -45,12 +66,6 @@
     <lastmod>2016-01-25T04:08:15-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/jan/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url><url>
-    <loc>http://nickazuredevops.github.io/series/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url><url>
-    <loc>http://nickazuredevops.github.io/tags/</loc>
     <lastmod>2016-01-25T04:08:15-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/tags/technology/</loc>

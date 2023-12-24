@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Azure Community Enthusiasts User Group on Microsoft Community Hub</title>
+    <title>Usergroups on Microsoft Community Hub</title>
     <link>http://nickazuredevops.github.io/usergroup/</link>
-    <description>Recent content in Azure Community Enthusiasts User Group on Microsoft Community Hub</description>
+    <description>Recent usergroups in Usergroups on Microsoft Community Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate><atom:link href="http://nickazuredevops.github.io/usergroup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 13:27:00 -0600</lastBuildDate>
+    <atom:link href="http://nickazuredevops.github.io/usergroup/" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Nicholas Chang</title>
-      <link>http://nickazuredevops.github.io/usergroup/usergroup/</link>
-      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      <title>My First Blog</title>
+      <link>http://nickazuredevops.github.io/usergroup/my-first-blog/</link>
+      <pubDate>Sun, 01 Nov 2020 13:27:00 -0600</pubDate>
       
-      <guid>http://nickazuredevops.github.io/usergroup/usergroup/</guid>
-      <description>Nicholas is a Senior Platform Engineer working at Kainos interested in learning and sharing Azure Knowledge within the community.
-I work with Azure, Terraform, Azure DevOps, and GitHub and am passionate about Microsoft technology.
-You can find me on my Twitter: @nick_cloudops or visit my blog @ nicholaschangblog.com</description>
+      <guid>http://nickazuredevops.github.io/usergroup/my-first-blog/</guid>
+      <description>YOLO keytar scenester, williamsburg etsy mlkshk neutra hexagon photo booth church-key messenger bag. Lyft small batch enamel pin, bicycle rights la croix migas chartreuse ramps microdosing authentic pickled gochujang kombucha. Wolf vaporware stumptown, glossier vinyl everyday carry organic. Subway tile af tumblr listicle photo booth meh trust fund tote bag. Post-ironic gentrify direct trade blue bottle, fingerstache master cleanse butcher. Succulents ethical leggings hexagon vexillologist migas you probably haven&amp;amp;rsquo;t heard of them keytar sustainable church-key viral salvia hell of kinfolk.</description>
     </item>
     
   </channel>
