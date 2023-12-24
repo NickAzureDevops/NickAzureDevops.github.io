@@ -79,7 +79,6 @@
         {{ $usergroup := (where .Site.RegularPages "Section" "==" "usergroup") }}
         {{ if ge (len $usergroup) 1 }}
         <div class = "d-flex p-2 subscribe_buttons col-md-auto">
-          <a class="btn btn-default" href="{{"usergroup/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;usergroup RSS</a>
         </div>
         {{ end }}
     </div>
