@@ -10,10 +10,19 @@
     
     <item>
       <title>Azure Community Enthusiasts User Group Episode 1</title>
-      <link>http://nickazuredevops.github.io/usergroup/my-first-blog/</link>
+      <link>http://nickazuredevops.github.io/usergroup/first-launch/</link>
       <pubDate>Mon, 25 Jan 2016 04:08:15 -0500</pubDate>
       
-      <guid>http://nickazuredevops.github.io/usergroup/my-first-blog/</guid>
+      <guid>http://nickazuredevops.github.io/usergroup/first-launch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Community Enthusiasts User Group Episode 2</title>
+      <link>http://nickazuredevops.github.io/usergroup/second-event/</link>
+      <pubDate>Mon, 25 Jan 2016 04:08:15 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/usergroup/second-event/</guid>
       <description></description>
     </item>
     
