@@ -1,6 +1,7 @@
 +++
 date = "2016-09-25T02:11:48-05:00"
-description = "about this site"
-title = "Upcoming Episodes"
+description = "Azure Community Enthusiasts User Group"
+title = "Azure Community Enthusiasts User Group"
+aliases = "/usergroup"
 +++
-these are episodes that aren't published yet
+
