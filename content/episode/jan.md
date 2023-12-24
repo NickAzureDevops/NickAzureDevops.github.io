@@ -12,8 +12,7 @@ title = "Interview with Guest ...."
 youtube = ""
 
 categories = ["Cloud Technology"]
-series = ["Exploring the Cloud"]
-tags = ["", "", "Technology"]
+tags = ["Azure", "Technology"]
 +++
 
 

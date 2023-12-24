@@ -12,4 +12,4 @@ Nicholas is a Senior Platform Engineer working at Kainos interested in learning 
 
 I work with Azure, Terraform, Azure DevOps, and GitHub and am passionate about Microsoft technology.
 
-You can find me on my Twitter: @nick_cloudops or visit my usergroup @ nicholaschangusergroup.com
+You can find me on social media such as, twitter, and linkedin.

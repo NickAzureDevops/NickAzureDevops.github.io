@@ -5,4 +5,4 @@ title = "Guests of Microsoft Community Insights"
 aliases = "/guests"
 +++
 
-Want to be a guest on the Microsoft Community Insights Podcast? Send us an email!
+Want to be a guest on the Microsoft Community Insights Podcast or something you wanted to share, please contact us. 
