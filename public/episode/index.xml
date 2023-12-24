@@ -37,6 +37,6 @@
       <title>Microsoft Community Hub</title>
       <link>http://nickazuredevops.github.io</link>
     </image>
-    <itunes:category text="Technology">
-      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category><generator>Hugo -- gohugo.io</generator></channel>
+    <itunes:category text="">
+      </itunes:category><generator>Hugo -- gohugo.io</generator></channel>
 </rss>

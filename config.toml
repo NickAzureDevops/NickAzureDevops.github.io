@@ -59,7 +59,7 @@ enable_jumbo = "true"
 disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2016 [Nicholas Chang]"
+copyright_notice = "Copyright 2016 Nicholas Chang"
 youtube_subscribe = ""
 itunes_subscribe = ""
 spotify_subscribe = "httpss://open.spotify.com/show/..."
@@ -73,9 +73,6 @@ description = "This is a place for all community learning, including user groups
     itunes_owner_name = "Matt Stratton"
     itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
     itunes_image = "httpss://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
-    itunes_top_category = "Technology"
-    itunes_first_sub_category = "Software How-To"
-    itunes_second_sub_category = "Tech News"
     language = "en-us"
 
   [params.realfavicongenerator] # httpss://realfavicongenerator.net/
@@ -86,12 +83,12 @@ description = "This is a place for all community learning, including user groups
   # Social links can be given in full URL form or short form
   # In the short form the theme will generate a relevant URL
   [params.social]
-    twitter = "httpss://twitter.com/arresteddevops"
-    twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    youtube = "arresteddevops"
+    twitter = "httpss://twitter.com/"
+    twitter_domain = "" # This domain shows in twitter cards as "View on `twitter_domain`"
+    youtube = ""
     # Short form in linkedin will link to a user's page so use long form for company pages
     linkedin = "httpss://www.linkedin.com/company/linkedin/"
-    #linkedin = "mattstratton"
+    #linkedin = ""
 
     [params.authors.Nick]
       name = "Nicholas Chang"
