@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Community Hub</title>
+    <link>http://nickazuredevops.github.io/</link>
+    <description>Recent content on Microsoft Community Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 20:55:58 -0600</lastBuildDate><atom:link href="http://nickazuredevops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kevin Greene</title>
+      <link>http://nickazuredevops.github.io/host/kevin/</link>
+      <pubDate>Fri, 08 Dec 2023 20:55:58 -0600</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/host/kevin/</guid>
+      <description>Microsoft MVP and Microsoft Certified Trainer working for Ergo, an IT services and consulting company operating out of Dublin, Ireland. A regular speaker at local and international events, he has also authored a number of books on Azure and Datacentre Management technologies including the recently released &amp;lsquo;Inside Azure Management&amp;rsquo; book.
+He is also a co-organiser of Azure Community Enthusiasts user group.</description>
+    </item>
+    
+    <item>
+      <title>Nicholas Chang</title>
+      <link>http://nickazuredevops.github.io/host/nick/</link>
+      <pubDate>Fri, 08 Dec 2023 20:55:58 -0600</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/host/nick/</guid>
+      <description>Nicholas is a Senior Platform Engineer working at Kainos interested in learning and sharing Azure Knowledge within the community.
+I work with Azure, Terraform, Azure DevOps, and GitHub and am passionate about Microsoft technology.
+You can find me on social media such as, twitter, and linkedin.</description>
+    </item>
+    
+    <item>
+      <title>Azure Community Enthusiasts User Group Episode 3</title>
+      <link>http://nickazuredevops.github.io/usergroup/third-episode/</link>
+      <pubDate>Mon, 30 Oct 2023 04:08:15 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/usergroup/third-episode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Community Enthusiasts User Group Episode 2</title>
+      <link>http://nickazuredevops.github.io/usergroup/second-episode/</link>
+      <pubDate>Mon, 16 Oct 2023 04:08:15 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/usergroup/second-episode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Community Enthusiasts User Group Episode 1</title>
+      <link>http://nickazuredevops.github.io/usergroup/first-episode/</link>
+      <pubDate>Mon, 02 Oct 2023 04:08:15 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/usergroup/first-episode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Evans</title>
+      <link>http://nickazuredevops.github.io/guest/kevin-evans/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/guest/kevin-evans/</guid>
+      <description>Kevin Evans is a Senior Cloud Solution Architect at Microsoft. He has a passion for innovation and driving business value through the implementation of cutting-edge cloud native technology.
+Follow him on social media and check out his new content on Code To Cloud</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://nickazuredevops.github.io/about/</link>
+      <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview with Guest ....</title>
+      <link>http://nickazuredevops.github.io/jan/</link>
+      <pubDate>Mon, 25 Jan 2016 04:08:15 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/jan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

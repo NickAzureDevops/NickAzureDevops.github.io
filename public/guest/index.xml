@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guests of Microsoft Community Insights on Microsoft Community Hub</title>
+    <link>http://nickazuredevops.github.io/guest/</link>
+    <description>Recent content in Guests of Microsoft Community Insights on Microsoft Community Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate><atom:link href="http://nickazuredevops.github.io/guest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kevin Evans</title>
+      <link>http://nickazuredevops.github.io/guest/kevin-evans/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://nickazuredevops.github.io/guest/kevin-evans/</guid>
+      <description>Kevin Evans is a Senior Cloud Solution Architect at Microsoft. He has a passion for innovation and driving business value through the implementation of cutting-edge cloud native technology.
+Follow him on social media and check out his new content on Code To Cloud</description>
+    </item>
+    
+  </channel>
+</rss>
