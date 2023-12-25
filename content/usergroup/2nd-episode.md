@@ -5,7 +5,7 @@ date = "2023-10-16T04:08:15-05:00"
 episode = "2"
 guests = ["Dwayne Natwick", "Josh Duffey"]
 images = ["img/usergroup/second-episode.jpg"]
-title = "Azure Community Enthusiasts User Group Episode 2"
+title = "Azure Community Enthusiasts User Group 16th October"
 youtube = "IqMwAllQ22I"
 +++
 

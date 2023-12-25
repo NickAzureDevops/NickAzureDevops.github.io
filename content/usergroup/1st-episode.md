@@ -6,7 +6,7 @@ episode = "1"
 guests = ["Gregor Suttie", "Tim Warner"]
 episode_image = "img/usergroup/first-episode-image.png"
 images = ["img/usergroup/first-episode.jpg"]
-title = "Azure Community Enthusiasts User Group Episode 1"
+title = "Azure Community Enthusiasts User Group 2nd October"
 youtube = "TPjODynvIzM"
 +++
 

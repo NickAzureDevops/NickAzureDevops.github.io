@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nickazuredevops.github.io/host/kevin/</loc>
-    <lastmod>2023-12-08T20:55:58-06:00</lastmod>
+    <loc>http://nickazuredevops.github.io/usergroup/6th-episode/</loc>
+    <lastmod>2023-12-11T04:08:15-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/</loc>
+    <lastmod>2023-12-11T04:08:15-05:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/usergroup/</loc>
+    <lastmod>2023-12-11T04:08:15-05:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/host/kevin/</loc>
     <lastmod>2023-12-08T20:55:58-06:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/host/nick/</loc>
     <lastmod>2023-12-08T20:55:58-06:00</lastmod>
   </url><url>
-    <loc>http://nickazuredevops.github.io/usergroup/third-episode/</loc>
+    <loc>http://nickazuredevops.github.io/usergroup/5th-episode/</loc>
+    <lastmod>2023-11-27T04:08:15-05:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/usergroup/4th-episode/</loc>
+    <lastmod>2023-11-13T04:08:15-05:00</lastmod>
+  </url><url>
+    <loc>http://nickazuredevops.github.io/usergroup/3rd-episode/</loc>
     <lastmod>2023-10-30T04:08:15-05:00</lastmod>
   </url><url>
-    <loc>http://nickazuredevops.github.io/usergroup/</loc>
-    <lastmod>2023-10-30T04:08:15-05:00</lastmod>
-  </url><url>
-    <loc>http://nickazuredevops.github.io/usergroup/second-episode/</loc>
+    <loc>http://nickazuredevops.github.io/usergroup/2nd-episode/</loc>
     <lastmod>2023-10-16T04:08:15-05:00</lastmod>
   </url><url>
-    <loc>http://nickazuredevops.github.io/usergroup/first-episode/</loc>
+    <loc>http://nickazuredevops.github.io/usergroup/1st-episode/</loc>
     <lastmod>2023-10-02T04:08:15-05:00</lastmod>
   </url><url>
     <loc>http://nickazuredevops.github.io/guest/kevin-evans/</loc>
