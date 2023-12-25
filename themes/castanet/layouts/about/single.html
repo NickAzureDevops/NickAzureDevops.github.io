@@ -8,7 +8,10 @@
   <div class = "row">
     <div class = "col-md-3">
       {{ if isset $.Site.Params "about_logo" }}
-      <img src = "{{ $.Site.Params.about_logo }}" width = "250px"/>
+      <img src="{{ $.Site.Params.about_logo }}" width="250px"/> 
+      <img src="/img/usergroup.png" width="250px"/>
+      <br> <!-- New line added here -->
+
       {{ else }}
       {{ end }}
 
