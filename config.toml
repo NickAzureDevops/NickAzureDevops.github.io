@@ -59,6 +59,7 @@ enable_jumbo = "true"
 disable_title_caps = "true"
 # truncate = "100"
 about_logo = "/img/logo.jpg"
+usergroup = "/img/usergroup.png"
 copyright_notice = "Copyright 2023 Nicholas Chang"
 youtube_subscribe = ""
 itunes_subscribe = ""
@@ -94,16 +95,12 @@ We would like to wish you Merry Christmas and Happy New Year"""
     # Short form in linkedin will link to a user's page so use long form for company pages
     linkedin = "https://www.linkedin.com/company/microsoftcommunityinsights/"
     #linkedin = ""
-  
-    [params.authors.Nick]
-      name = "Nicholas Chang"
-      thumbnail = "img/host/nick.png"
-      [params.authors.Nick.social]
-        twitter = "nick_cloudops"
+
 
   [params.authors]
-    [params.authors.Kevin]
-      name	= "Kevin Greene"
-      thumbnail = "img/host/kevin.jpg"
+    [params.authors.logo]
+      name	= ""
+      thumbnail = "img/microsoftcommunityhub.png"
         linkedin = "https://www.linkedin.com/in/kgreeneit/"
         twitter = "kgreeneit"
+ 
