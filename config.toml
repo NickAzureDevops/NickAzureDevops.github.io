@@ -105,5 +105,5 @@ We would like to wish you Merry Christmas and Happy New Year"""
     [params.authors.Kevin]
       name	= "Kevin Greene"
       thumbnail = "img/host/kevin.jpg"
-        linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.io"
+        linkedin = "https://www.linkedin.com/in/kgreeneit/"
+        twitter = "kgreeneit"
