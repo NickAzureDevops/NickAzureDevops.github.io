@@ -10,8 +10,8 @@
   
           {{ range $p:= $.Site.Params.authors }}
           <div class="col-lg-2">
-              <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
-              <p class="text-center text-capitalize">{{ $p.name }}</p>
+                <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host" width="250" height="250">
+                <p class="text-center text-capitalize">{{ $p.name }}</p>
           </div>
           {{ end }}
   
@@ -24,7 +24,7 @@
               <script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="{{ .Site.Params.podlove.subscribe_language }}" data-size="{{ .Site.Params.podlove.subscribe_size }}" data-json-data="podcastData" data-color="{{ .Site.Params.podlove.subscribe_color }}" data-format="{{ .Site.Params.podlove.subscribe_format }}" data-style="{{ .Site.Params.podlove.subscribe_style }}"></script>
               <noscript><a href="{{ .Site.Params.rss_subscribe }}">Subscribe to feed</a></noscript>
           </div>
-          {{ end }}x
+          {{ end }}
       </div>
       <div class = "row">
           {{ if (isset .Site.Params "youtube_subscribe") }}
